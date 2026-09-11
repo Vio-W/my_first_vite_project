@@ -1,0 +1,22 @@
+.badge {
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  color: white;
+}
+
+.badge-green {
+  background-color: #22c55e;
+}
+
+.badge-grey {
+  background-color: #6b7280;
+}
+
+.name {
+  color:bisque;
+}
+
+.goal {
+  color:blanchedalmond;
+}
